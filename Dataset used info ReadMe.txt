@@ -1,6 +1,6 @@
-=================================
-SorghumWeedDataset_Classification
-=================================
+============================================
+This Dataset is used for the model training.
+============================================
 
 Description:
 
