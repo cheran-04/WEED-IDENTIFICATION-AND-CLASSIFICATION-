@@ -28,11 +28,9 @@ Data is acquired from Sri Ramaswamy Memorial (SRM) Care Farm, Chengalpattu distr
 Expected outcome:  
 The expected outcome of this dataset will be an Artificial Intelligence (AI) model that predicts the correct class of a particular data sample.
 
-Detailed description: 
+Dataset description: 
 The detailed description of the dataset and data acquisition process is given in the data article entitled “ ‘SorghumWeedDataset_Classification’ And ‘SorghumWeedDataset_Segmentation’ Datasets For Classification, Detection, and Segmentation In Deep Learning “. (Submitted in the journal ‘Data in Brief’ on 25/09/2023 and awaiting publication)
 
 Citation: 
 If you find this dataset helpful and use it in your work, kindly cite this dataset using “Michael, Justina; M, Thenmozhi (2023), “SorghumWeedDataset_Classification”, Mendeley Data, V1, doi: 10.17632/4gkcyxjyss.1”
 
-Further queries: 
-If any queries/suggestions concerning this dataset, please e-mail us at thenmozm@srmist.edu.in [corresponding author]
